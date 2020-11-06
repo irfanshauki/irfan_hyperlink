@@ -82,4 +82,7 @@ a:active {
 <p><a href="https://www.facebook.com/irfan.shauki.58" target="_blank">Facebook</a></p>
 <p><a href="https://www.twitter.com/" target= "_blank">Twitter</a></p>
 
+</body>
+</html>
+
 
