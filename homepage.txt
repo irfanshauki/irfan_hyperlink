@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Homepage</title>
+
+<style>
+
+
+h1 {text-align: center;}
+h1 {color: cyan}
+
+p {text-align: center;}
+p {color: white}
+
+body {background-color: black}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: cyan;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
+
+
+
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a href="homepage.htm">Homepage</a></li>
+  <li><a href="biodata.htm">Biodata</a></li>
+  <li><a href="gallery.htm">Gallery</a></li>
+</ul>
+
+<br>
+
+<h1>Homepage</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor consequat tincidunt. Vivamus eu lectus leo. Duis vitae massa nec leo luctus viverra. Curabitur egestas tellus vitae nisl elementum consequat. Nam finibus in neque et ultrices. Sed massa leo, accumsan sed purus sit amet, volutpat consequat risus. Pellentesque lectus lorem, maximus eu quam id, finibus molestie enim. Nam volutpat dapibus porttitor. Morbi lobortis nisl tellus, nec pellentesque nulla feugiat ac. Curabitur laoreet commodo eleifend. Maecenas ornare quam nisl, et feugiat nisl malesuada id. Etiam arcu nisi, pharetra volutpat varius eu, facilisis eget justo. Etiam risus orci, posuere interdum placerat quis, mattis in lacus. Proin vitae augue at quam imperdiet luctus.</p>
+
+<p>Nam egestas elit et suscipit gravida. Aliquam erat volutpat. Sed auctor volutpat quam, nec varius lectus ultricies a. Ut rutrum euismod fermentum. Curabitur porttitor ipsum et orci mollis semper vitae id lacus. Aliquam pellentesque, dui non semper malesuada, nunc nisi pellentesque tellus, quis luctus ipsum eros ac metus. Aenean tincidunt ut nunc vel tincidunt. Donec bibendum tortor est, maximus fringilla enim mollis quis. In hac habitasse platea dictumst. Proin mattis iaculis tellus ultricies congue. Vestibulum facilisis purus sed ante pretium, et tristique metus euismod. Cras vulputate dolor sed mauris faucibus, ac vehicula arcu hendrerit.</p>
+
+<p>Nunc ut hendrerit nibh. Mauris ac nisi ac est vulputate fermentum ac quis risus. Morbi a nisi ut tortor cursus ultrices. Nullam vel pretium ante. Etiam ac lectus vitae eros sollicitudin porta. Fusce porta purus felis, mollis aliquet dolor euismod in. In eget ipsum nunc. Nunc sit amet ante nec quam imperdiet luctus.</p>
